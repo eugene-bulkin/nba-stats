@@ -1,0 +1,150 @@
+{
+  "lebronRegular": {
+    "profile": {
+      "playerId": 2544,
+      "fullName": "LeBron James",
+      "abbrName": "L. James",
+      "birthdate": "Sun Dec 30 1984 00:00:00 GMT-0800 (PST)",
+      "school": "St. Vincent-St. Mary HS (OH)",
+      "country": "USA",
+      "number": 6,
+      "active": true,
+      "position": "Forward",
+      "team": {
+        "teamId": 1610612748,
+        "name": "Heat",
+        "abbr": "MIA",
+        "city": "Miami"
+      }
+    },
+    "basicStats": {
+      "season": "2013-14",
+      "GP": 77,
+      "W": 52,
+      "L": 25,
+      "MIN": 37.7,
+      "FGM": 10,
+      "FGA": 17.6,
+      "FG3M": 1.5,
+      "FG3A": 4,
+      "FTM": 5.7,
+      "FTA": 7.6,
+      "OREB": 1.1,
+      "DREB": 5.9,
+      "REB": 6.9,
+      "AST": 6.3,
+      "TOV": 3.5,
+      "STL": 1.6,
+      "BLK": 0.3,
+      "PF": 1.6,
+      "PTS": 27.1,
+      "PM": 5.3
+    }
+  },
+  "lebronPts": {
+    "profile": {
+      "playerId": 2544,
+      "fullName": "LeBron James",
+      "abbrName": "L. James",
+      "birthdate": "Sun Dec 30 1984 00:00:00 GMT-0800 (PST)",
+      "school": "St. Vincent-St. Mary HS (OH)",
+      "country": "USA",
+      "number": 6,
+      "active": true,
+      "position": "Forward",
+      "team": {
+        "teamId": 1610612748,
+        "name": "Heat",
+        "abbr": "MIA",
+        "city": "Miami"
+      }
+    },
+    "basicStats": {
+      "season": "2013-14",
+      "PTS": 27.1
+    }
+  },
+  "lebronAdvanced": {
+    "profile": {
+      "playerId": 2544,
+      "fullName": "LeBron James",
+      "abbrName": "L. James",
+      "birthdate": "Sun Dec 30 1984 00:00:00 GMT-0800 (PST)",
+      "school": "St. Vincent-St. Mary HS (OH)",
+      "country": "USA",
+      "number": 6,
+      "active": true,
+      "position": "Forward",
+      "team": {
+        "teamId": 1610612748,
+        "name": "Heat",
+        "abbr": "MIA",
+        "city": "Miami"
+      }
+    },
+    "basicStats": {
+      "season": "2013-14",
+      "GP": 77,
+      "W": 52,
+      "L": 25,
+      "MIN": 37.7,
+      "FGM": 10,
+      "FGA": 17.6,
+      "FG3M": 1.5,
+      "FG3A": 4,
+      "FTM": 5.7,
+      "FTA": 7.6,
+      "OREB": 1.1,
+      "DREB": 5.9,
+      "REB": 6.9,
+      "AST": 6.3,
+      "TOV": 3.5,
+      "STL": 1.6,
+      "BLK": 0.3,
+      "PF": 1.6,
+      "PTS": 27.1,
+      "PM": 5.3
+    },
+    "advancedStats": {
+      "season": "2013-14",
+      "GP": 77,
+      "W": 52,
+      "L": 25,
+      "MIN": 37.7,
+      "ORtg": 111.4,
+      "DRtg": 103.5,
+      "eFG": 0.61,
+      "TS": 0.649,
+      "USG": 0.309,
+      "AstTO": 1.81,
+      "AstPct": 0.311,
+      "ORebPct": 0.037,
+      "DRebPct": 0.188,
+      "RebPct": 0.117
+    }
+  },
+  "lebronAdvFg": {
+    "profile": {
+      "playerId": 2544,
+      "fullName": "LeBron James",
+      "abbrName": "L. James",
+      "birthdate": "Sun Dec 30 1984 00:00:00 GMT-0800 (PST)",
+      "school": "St. Vincent-St. Mary HS (OH)",
+      "country": "USA",
+      "number": 6,
+      "active": true,
+      "position": "Forward",
+      "team": {
+        "teamId": 1610612748,
+        "name": "Heat",
+        "abbr": "MIA",
+        "city": "Miami"
+      }
+    },
+    "advancedStats": {
+      "season": "2013-14",
+      "eFG": 0.61,
+      "TS": 0.649
+    }
+  }
+}

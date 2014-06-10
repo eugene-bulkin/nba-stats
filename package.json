@@ -33,6 +33,7 @@
   "dependencies": {
     "bluebird": "^2.0.7",
     "fuzzy": "^0.1.0",
-    "request": "^2.36.0"
+    "request": "^2.36.0",
+    "moment-timezone": "0.0.6"
   }
 }

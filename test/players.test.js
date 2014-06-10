@@ -134,18 +134,3 @@ describe('Player Search', function(done) {
   });
 });
 
-describe('Retrieving statistics', function(done) {
-  var player;
-  before(function(done) {
-      NBA.findPlayer('LeBron James').then(function(p) {
-        player = p;
-      }).done(done);
-  });
-  describe('Should retrieve full regular statistics...', function(done) {
-    it('From full player object', function(done) {
-      NBA.getStats(player).then(function(stats) {
-        console.log(stats, player);
-      }).done(done);
-    });
-  });
-});
