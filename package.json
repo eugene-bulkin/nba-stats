@@ -1,0 +1,38 @@
+{
+  "name": "nba-stats",
+  "version": "0.0.0",
+  "main": "lib/nba-stats.js",
+  "description": "Wrapper for accessing the NBA.com stats API",
+  "homepage": "https://github.com/eugene-bulkin/nba-stats",
+  "bugs": "https://github.com/eugene-bulkin/nba-stats/issues",
+  "author": {
+    "name": "Eugene Bulkin",
+    "email": "eugene@eugenebulkin.name",
+    "url": "http://eugenebulkin.name"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugene-bulkin/nba-stats"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-mocha-test": "^0.10.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1",
+    "jshint-stylish": "^0.2.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "dependencies": {
+    "bluebird": "^2.0.7",
+    "fuzzy": "^0.1.0",
+    "request": "^2.36.0"
+  }
+}
